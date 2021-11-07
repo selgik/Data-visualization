@@ -1,4 +1,3 @@
 # Interactive-Tableau-dashboard
 
-https://user-images.githubusercontent.com/91002274/140649671-d4c361bb-d14e-4095-8e53-f0cdb4dc2578.mov
-
+https://user-images.githubusercontent.com/91002274/140649771-b2e7682e-e684-476d-8a93-0da97e1f62df.mov
