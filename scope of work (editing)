@@ -1,0 +1,33 @@
+Data Visualization Project
+Date: Oct 15, 2021                                                                                        
+Data Analyst: Sylvia K.
+Client/Sponsor: N/A
+
+1. Purpose: 
+The goal of this project is to visualize COVID-19 data around the globe for easier search and review. 
+The project will organize daily updates and historical COVID-19 data using country, time and region filters.
+After applying the filters, the project will illustrate daily and total number of confirmed cases/deaths/vaccinations, 
+trend over time including cases over the last 14 days and overall fatality rate change, as of the last update date of the dashboard. 
+The project will also provide an overview on global/continental summary of key factors on the map.
+The final delivable will streamline search process by producing a comprehensive report on COVID-19 status.
+
+(editing)
+2. Scope / Major Project Activities:
+Activity                           Description
+Prepare data
+Decide story point 
+Design report 
+Deliver dashboard
+
+3. This project does not include:
+
+4. Deliverables:
+
+5. Schedule Overview / Major Milestones:
+Milestone           Date            Description        
+Final report        Oct 15, 2021          
+Datasource update   Every 2 days    In order to accurately capture daily updates, 
+                                    datasource update is scheduled every 2 days.
+                                    * This has been stopped as of Nov 7, 2021.
+                                    
+- END -
