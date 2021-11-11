@@ -1,4 +1,4 @@
-# Interactive-Tableau-dashboard
+# Data visualization with Tableau dashboard
 ## Explanatory Document: 
     Scope of Work
 ## Reference
