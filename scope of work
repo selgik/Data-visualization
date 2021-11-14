@@ -4,7 +4,7 @@ Data Analyst: Sylvia K.
 Client/Sponsor: N/A
 
 1. Purpose: 
-The goal of this project is to visualize key COVID-19 data for given search criteria. 
+The goal of this project is to visualize key COVID-19 data with easeir search and comparison. 
 The project will organize daily and historical COVID-19 data using country, time and region filters.
 After applying filters, the project will illustrate daily and total number of confirmed cases/deaths/vaccinations, 
 trend over time including fatality rate change and case fluctuation over the last 14 days, as of the last update date of the dashboard. 
