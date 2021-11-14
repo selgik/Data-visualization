@@ -1,5 +1,5 @@
 # Data visualization with Tableau dashboard
-## Explanatory Document: 
+## Explanatory Document
     scope of work
 ## Reference
     Data source: https://ourworldindata.org/coronavirus
