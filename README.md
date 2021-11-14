@@ -1,6 +1,6 @@
 # Data visualization with Tableau dashboard
 ## Explanatory Document: 
-    Scope of Work
+    scope of work
 ## Reference
     Data source: https://ourworldindata.org/coronavirus
     Test yourself: https://public.tableau.com/app/profile/sylvia.kim/viz/COVID_NOW_SYLVIAKIM/COVID_NOW
